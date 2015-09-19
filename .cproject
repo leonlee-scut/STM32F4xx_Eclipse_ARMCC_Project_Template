@@ -25,6 +25,7 @@
 									<listOptionValue builtIn="false" value="USE_FULL_ASSERT=1"/>
 									<listOptionValue builtIn="false" value="STM32F415xx"/>
 									<listOptionValue builtIn="false" value="USE_HAL_DRIVER=1"/>
+									<listOptionValue builtIn="false" value="__CC_ARM=1"/>
 								</option>
 								<option id="com.arm.tool.c.compiler.option.incpath.1680834224" name="Include path (-I)" superClass="com.arm.tool.c.compiler.option.incpath" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/m4fpWsemFw/system/CMSIS/Include}&quot;"/>
@@ -106,6 +107,7 @@
 									<listOptionValue builtIn="false" value="HSE_VALUE=8000000uL"/>
 									<listOptionValue builtIn="false" value="STM32F415xx"/>
 									<listOptionValue builtIn="false" value="USE_HAL_DRIVER=1"/>
+									<listOptionValue builtIn="false" value="__CC_ARM=1"/>
 								</option>
 								<option id="com.arm.tool.c.compiler.options.debug.enabled.788657193" name="Enable debug (-g)" superClass="com.arm.tool.c.compiler.options.debug.enabled" value="false" valueType="boolean"/>
 								<option id="com.arm.tool.c.compiler.option.incpath.1375006123" name="Include path (-I)" superClass="com.arm.tool.c.compiler.option.incpath" valueType="includePath">
@@ -195,4 +197,5 @@
 			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId="com.arm.eclipse.builder.armcc.ARMCompilerDiscoveryProfile"/>
 		</scannerConfigBuildInfo>
 	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.internal.ui.text.commentOwnerProjectMappings"/>
 </cproject>
